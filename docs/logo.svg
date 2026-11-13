@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 32 32" role="img" aria-label="Helm logo">
+  <rect width="32" height="32" rx="9" fill="#e3d7bf"/>
+  <g stroke="#18191c" stroke-width="2.2" stroke-linecap="round" fill="none">
+    <circle cx="16" cy="16" r="7"/>
+    <line x1="19.2" y1="16" x2="27.6" y2="16"/><line x1="18.26" y1="18.26" x2="24.2" y2="24.2"/>
+    <line x1="16" y1="19.2" x2="16" y2="27.6"/><line x1="13.74" y1="18.26" x2="7.8" y2="24.2"/>
+    <line x1="12.8" y1="16" x2="4.4" y2="16"/><line x1="13.74" y1="13.74" x2="7.8" y2="7.8"/>
+    <line x1="16" y1="12.8" x2="16" y2="4.4"/><line x1="18.26" y1="13.74" x2="24.2" y2="7.8"/>
+  </g>
+  <circle cx="16" cy="16" r="2.6" fill="#4d7cff"/>
+</svg>

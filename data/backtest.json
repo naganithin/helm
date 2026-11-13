@@ -1,0 +1,245 @@
+{
+ "generatedAt": "2026-11-12T10:44:23.948Z",
+ "historyDays": 729,
+ "from": "2024-11-13",
+ "to": "2026-11-11",
+ "minHistory": 250,
+ "summary": {
+  "neutral": {
+   "n": 435,
+   "inside90": 0.9356321839080459,
+   "inside50": 0.5885057471264368,
+   "below5": 0.0367816091954023,
+   "above95": 0.027586206896551724
+  },
+  "history": {
+   "n": 435,
+   "inside90": 0.903448275862069,
+   "inside50": 0.5678160919540229,
+   "below5": 0.06666666666666667,
+   "above95": 0.029885057471264367
+  }
+ },
+ "rows": [
+  {
+   "name": "Crypto mix (60% BTC, 30% ETH, 10% NEAR)",
+   "horizon": 30,
+   "drift": "neutral",
+   "n": 45,
+   "inside90": 0.9111111111111111,
+   "inside50": 0.5333333333333333,
+   "below5": 0.06666666666666667,
+   "above95": 0.022222222222222223,
+   "medianError": 0.010578941812011976
+  },
+  {
+   "name": "Crypto mix (60% BTC, 30% ETH, 10% NEAR)",
+   "horizon": 30,
+   "drift": "history",
+   "n": 45,
+   "inside90": 0.9111111111111111,
+   "inside50": 0.4888888888888889,
+   "below5": 0.06666666666666667,
+   "above95": 0.022222222222222223,
+   "medianError": 0.008893924672140657
+  },
+  {
+   "name": "Crypto mix (60% BTC, 30% ETH, 10% NEAR)",
+   "horizon": 60,
+   "drift": "neutral",
+   "n": 42,
+   "inside90": 0.9047619047619048,
+   "inside50": 0.47619047619047616,
+   "below5": 0.023809523809523808,
+   "above95": 0.07142857142857142,
+   "medianError": -0.00041816994690327647
+  },
+  {
+   "name": "Crypto mix (60% BTC, 30% ETH, 10% NEAR)",
+   "horizon": 60,
+   "drift": "history",
+   "n": 42,
+   "inside90": 0.8809523809523809,
+   "inside50": 0.4523809523809524,
+   "below5": 0.047619047619047616,
+   "above95": 0.07142857142857142,
+   "medianError": -0.013498514257471356
+  },
+  {
+   "name": "Bitcoin only",
+   "horizon": 30,
+   "drift": "neutral",
+   "n": 45,
+   "inside90": 0.8444444444444444,
+   "inside50": 0.5777777777777777,
+   "below5": 0.1111111111111111,
+   "above95": 0.044444444444444446,
+   "medianError": -0.008718014643366927
+  },
+  {
+   "name": "Bitcoin only",
+   "horizon": 30,
+   "drift": "history",
+   "n": 45,
+   "inside90": 0.8,
+   "inside50": 0.4444444444444444,
+   "below5": 0.15555555555555556,
+   "above95": 0.044444444444444446,
+   "medianError": -0.003067263574694948
+  },
+  {
+   "name": "Bitcoin only",
+   "horizon": 60,
+   "drift": "neutral",
+   "n": 42,
+   "inside90": 0.9047619047619048,
+   "inside50": 0.38095238095238093,
+   "below5": 0.07142857142857142,
+   "above95": 0.023809523809523808,
+   "medianError": -0.00980784235084866
+  },
+  {
+   "name": "Bitcoin only",
+   "horizon": 60,
+   "drift": "history",
+   "n": 42,
+   "inside90": 0.7857142857142857,
+   "inside50": 0.3333333333333333,
+   "below5": 0.14285714285714285,
+   "above95": 0.07142857142857142,
+   "medianError": -0.08418311006556656
+  },
+  {
+   "name": "Classic 60/40 (S&P 500 + Treasuries)",
+   "horizon": 30,
+   "drift": "neutral",
+   "n": 45,
+   "inside90": 0.9333333333333333,
+   "inside50": 0.7333333333333333,
+   "below5": 0.022222222222222223,
+   "above95": 0.044444444444444446,
+   "medianError": 0.005917603038523794
+  },
+  {
+   "name": "Classic 60/40 (S&P 500 + Treasuries)",
+   "horizon": 30,
+   "drift": "history",
+   "n": 45,
+   "inside90": 0.9555555555555556,
+   "inside50": 0.7777777777777778,
+   "below5": 0.022222222222222223,
+   "above95": 0.022222222222222223,
+   "medianError": -0.0005098469390022729
+  },
+  {
+   "name": "Classic 60/40 (S&P 500 + Treasuries)",
+   "horizon": 60,
+   "drift": "neutral",
+   "n": 42,
+   "inside90": 0.9761904761904762,
+   "inside50": 0.7380952380952381,
+   "below5": 0,
+   "above95": 0.023809523809523808,
+   "medianError": 0.01227616983473024
+  },
+  {
+   "name": "Classic 60/40 (S&P 500 + Treasuries)",
+   "horizon": 60,
+   "drift": "history",
+   "n": 42,
+   "inside90": 0.9761904761904762,
+   "inside50": 0.7142857142857143,
+   "below5": 0,
+   "above95": 0.023809523809523808,
+   "medianError": -0.0011170353214744182
+  },
+  {
+   "name": "Tech stocks (NVDA, TSLA, AAPL)",
+   "horizon": 30,
+   "drift": "neutral",
+   "n": 45,
+   "inside90": 1,
+   "inside50": 0.7333333333333333,
+   "below5": 0,
+   "above95": 0,
+   "medianError": 0.024385293937572897
+  },
+  {
+   "name": "Tech stocks (NVDA, TSLA, AAPL)",
+   "horizon": 30,
+   "drift": "history",
+   "n": 45,
+   "inside90": 1,
+   "inside50": 0.7555555555555555,
+   "below5": 0,
+   "above95": 0,
+   "medianError": -0.0054804915965592045
+  },
+  {
+   "name": "Tech stocks (NVDA, TSLA, AAPL)",
+   "horizon": 60,
+   "drift": "neutral",
+   "n": 42,
+   "inside90": 1,
+   "inside50": 0.6904761904761905,
+   "below5": 0,
+   "above95": 0,
+   "medianError": 0.03425580186645016
+  },
+  {
+   "name": "Tech stocks (NVDA, TSLA, AAPL)",
+   "horizon": 60,
+   "drift": "history",
+   "n": 42,
+   "inside90": 1,
+   "inside50": 0.7142857142857143,
+   "below5": 0,
+   "above95": 0,
+   "medianError": -0.014080230388255587
+  },
+  {
+   "name": "Diversified (BTC, S&P 500, gold, bonds)",
+   "horizon": 30,
+   "drift": "neutral",
+   "n": 45,
+   "inside90": 0.9111111111111111,
+   "inside50": 0.5555555555555556,
+   "below5": 0.044444444444444446,
+   "above95": 0.044444444444444446,
+   "medianError": 0.002810804319416434
+  },
+  {
+   "name": "Diversified (BTC, S&P 500, gold, bonds)",
+   "horizon": 30,
+   "drift": "history",
+   "n": 45,
+   "inside90": 0.8444444444444444,
+   "inside50": 0.5555555555555556,
+   "below5": 0.1111111111111111,
+   "above95": 0.044444444444444446,
+   "medianError": -0.011234712490797506
+  },
+  {
+   "name": "Diversified (BTC, S&P 500, gold, bonds)",
+   "horizon": 60,
+   "drift": "neutral",
+   "n": 42,
+   "inside90": 0.9761904761904762,
+   "inside50": 0.4523809523809524,
+   "below5": 0.023809523809523808,
+   "above95": 0,
+   "medianError": 0.011787001602325972
+  },
+  {
+   "name": "Diversified (BTC, S&P 500, gold, bonds)",
+   "horizon": 60,
+   "drift": "history",
+   "n": 42,
+   "inside90": 0.8809523809523809,
+   "inside50": 0.42857142857142855,
+   "below5": 0.11904761904761904,
+   "above95": 0,
+   "medianError": -0.02306896646512382
+  }
+ ]
+}
